@@ -1,6 +1,6 @@
 # Simulated-Annealing-for-Network-Anonymization
 
-### This repository is an adaptation of Xie's work: https://github.com/christine99x/networkAnonymization.
+### This repository is an adaptation of Xie's work: https://github.com/christine99x/networkAnonymization. Moreover, we use the code of Rachel de Jong (https://github.com/RacheldeJong/dkAnonymity) to compute d-k-anonymity.
 
 ### The purpose of this research is exploring the Simulated Annealing method to anonymize networks using the (n,m)- and d-k-anonymity measures.
 
